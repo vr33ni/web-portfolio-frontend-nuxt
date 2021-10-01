@@ -57,6 +57,7 @@
     background: white;
     padding: 16px;
     margin: 16px 0;
+     border: 2px solid #1195c9;
     border-radius: 4px;
   }
   .job-list h2 {
