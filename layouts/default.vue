@@ -75,10 +75,6 @@ export default class Default extends Vue {
     left: 0;
     transition: left 0.3s cubic-bezier(1, 0, 0, 1);
     overflow: auto;
-    //background-color: #f9f9f9;
-    // &--shrink {
-    //   left: $sidebar-width;
-    // }
   }
 }
 </style>
