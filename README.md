@@ -2,7 +2,7 @@
 
 ## Description
 
-### Frontend** (this repo)
+### Frontend (this repo)
 
 #### Architecture
 
@@ -20,7 +20,7 @@ The user interface displays consists of a header and a body.
 The body furthermore consists of different sections: About me, Resume (professional experience, skill tags and education).
 The user interface is responsive.
 
-### Backend ([Github repo](https://github.com/vr33ni/web-portfolio-backend))
+### Backend ([Backend repo](https://github.com/vr33ni/web-portfolio-backend))
 
 Using NodeJs + Firebase as a database.
 
