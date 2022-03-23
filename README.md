@@ -6,7 +6,7 @@
 
 #### Architecture
 
-Using Nuxt Composition API and Typescript. Built based on basis of a project using Vue3 Composition API and Javascript ([original repo](https://github.com/vr33ni/web-portfolio-frontend))
+Using Nuxt Composition API and Typescript. Built based on Nuxt TS starter template and on basis of a project using Vue3 Composition API and Javascript ([original repo](https://github.com/vr33ni/web-portfolio-frontend))
 This application showcases my CV in form of a web portfolio. Currently, the project is still **under development**.
 The entrypoint is default.vue in the layout folder. It loads the header as well as the nuxt main view.
 The application consists of a basic user interface made from different components, which are accessed via the index page. The data is managed via store methods and fetched from the backend via multiple services (listed in the **services** folder).
