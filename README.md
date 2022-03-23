@@ -14,7 +14,7 @@ $ npm install
 $ npm run dev
 ```
 
-## Todo
+## Todos
 
 1. Create models/dtos for fetching data via the services
 2. Prefetch data
