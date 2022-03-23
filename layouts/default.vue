@@ -16,7 +16,6 @@
 
 import { Component } from "vue-property-decorator";
 import Vue from "vue";
-  import { defineComponent, ref } from '@nuxtjs/composition-api';
 
 import Header from "./header.vue";
 
