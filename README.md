@@ -2,7 +2,7 @@
 
 **Frontend** (this repo): Using Nuxt Composition API and Typescript. Built based on basis of a project using Vue3 Composition API and Javascript ([original repo](https://github.com/vr33ni/web-portfolio-frontend))
 
-This application showcases my CV in form of a web portfolio. Currently, the project is still **under development**.
+*Description:* This application showcases my CV in form of a web portfolio. Currently, the project is still **under development**.
 The current setup consists of a basic user interface made from different components. The data is managed via store methods and fetched from the backend via the multiple services (listed in the **services** folder).
 The backend code is available via the repository mentioned below.
 SSR is set to true.
