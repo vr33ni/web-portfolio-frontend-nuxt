@@ -1,5 +1,4 @@
 // import { shallowMount, createLocalVue } from '@vue/test-utils'
-// import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
 // import Header from '@/layouts/header.vue'
 
 // describe('layouts/header', () => {
@@ -7,7 +6,6 @@
 
 //   beforeAll(() => {
 //     localVue.use(BootstrapVue)
-//     localVue.use(BootstrapVueIcons)
 //   })
 
 //   test('show portal name in header', () => {

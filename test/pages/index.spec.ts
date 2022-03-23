@@ -6,6 +6,5 @@
 //     const wrapper = shallowMount(Index)
 
 //     expect(wrapper.find('h1').exists()).toBe(true)
-//     expect(wrapper.find('h1').text()).toContain('pages.index.title')
-//   })
+//    })
 // })
