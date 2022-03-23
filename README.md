@@ -1,6 +1,6 @@
 # vr33ni - Portfolio
 
-**Frontend** (this repo): Using Nuxt Composition API and Typescript. Built based on basis of a project using Vue3 Composition API and Javascript ([original repo](https://github.com/vr33ni/web-portfolio-frontend)
+**Frontend** (this repo): Using Nuxt Composition API and Typescript. Built based on basis of a project using Vue3 Composition API and Javascript ([original repo](https://github.com/vr33ni/web-portfolio-frontend))
 
 **Backend** ([Github repo](https://github.com/vr33ni/web-portfolio-backend)): Using NodeJs + Firebase as a database.
 
