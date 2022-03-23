@@ -1,25 +1,23 @@
-# job-listing
+# vr33ni - Portfolio
+
+**Frontend** (this repo): Using Nuxt Composition API.
+
+**Backend** ([Github repo](https://github.com/vr33ni/web-portfolio-backend)): Using NodeJs + Firebase as a database.
 
 ## Build Setup
 
 ```bash
 # install dependencies
-$ yarn install
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ yarn dev
-
-# build for production and launch server
-$ yarn build
-$ yarn start
-
-# generate static project
-$ yarn generate
+$ npm run dev
 ```
 
-## Todo:
+## Todo
 
-1. Change font
-2. Change style button etc.
-3. Change job details, salary, location and title
-4. Style "OrderBy"
+1. Create models/dtos for fetching data via the services
+2. Prefetch data
+3. Update styling
+4. Tests (Jest + E2E Nightwatch)
+5. Evaluation using Nuxt Composition API and Typescript vs using Vue3 + Composition API and Javascript
