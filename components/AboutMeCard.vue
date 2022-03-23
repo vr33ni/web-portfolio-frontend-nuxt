@@ -80,8 +80,7 @@ export default defineComponent<MyComponentProps>({
     profileImg: String,
   },
 
-  setup(props) {
-    const { profileImg } = toRefs(props);
+  setup() {
 
     const mobile = ref("4550371448");
     const email = ref("v.m.s.lechner@gmail.com");
@@ -90,7 +89,7 @@ export default defineComponent<MyComponentProps>({
     const instagram = ref("https://www.instagram.com/vr33ni");
 
 
-    return { profileImg, mobile, email, linkedin, github, instagram };
+    return { mobile, email, linkedin, github, instagram };
   },
 });
 </script>

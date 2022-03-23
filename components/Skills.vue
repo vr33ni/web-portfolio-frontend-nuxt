@@ -20,20 +20,15 @@
 import { defineComponent, toRefs } from "@nuxtjs/composition-api";
 
 interface MyComponentProps {
-  skillTags: Object;
+  skillTags: Array<Object>;
 }
 
 export default defineComponent<MyComponentProps>({
   name: "Skills",
   props: {
-    skillTags: Object,
+    skillTags: Array,
   },
 
-  setup(props) {
-    const { skillTags } = toRefs(props);
-
-    return { skillTags };
-  },
 });
 </script>
 

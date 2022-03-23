@@ -17,7 +17,8 @@ $ npm run dev
 ## Todos
 
 1. Create models/dtos for fetching data via the services
-2. Prefetch data
+2. Tests (Jest + E2E Nightwatch)
 3. Update styling
-4. Tests (Jest + E2E Nightwatch)
-5. Evaluation using Nuxt Composition API and Typescript vs using Vue3 + Composition API and Javascript
+4. Deploy on herokuapp using Docker
+5. Evaluate using Nuxt Composition API and Typescript vs using Vue3 + Composition API and Javascript
+6. Evaluate benefits of using SSR vs not using SSR in this context

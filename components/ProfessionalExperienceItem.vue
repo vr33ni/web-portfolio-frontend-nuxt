@@ -48,7 +48,7 @@ export default defineComponent<MyComponentProps>({
   },
 
   setup(props) {
-    const { itemTimeline, colorDots, dateLocale } = toRefs(props);
+    const { colorDots, dateLocale } = toRefs(props);
 
     function getBackgroundColour(color: string) {
       return color ? `background:${color}` : `background:${colorDots.value}`;
@@ -68,7 +68,7 @@ export default defineComponent<MyComponentProps>({
       return nameMonth;
     }
 
-    return { itemTimeline, getBackgroundColour, getFormattedDate };
+    return { getBackgroundColour, getFormattedDate };
   },
 });
 </script>
