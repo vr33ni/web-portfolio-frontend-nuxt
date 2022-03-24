@@ -11,7 +11,6 @@ This application showcases my CV in form of a web portfolio. Currently, the proj
 The entrypoint is default.vue in the layout folder. It loads the header as well as the nuxt main view.
 The application consists of a basic user interface made from different components, which are accessed via the index page. The data is managed via store methods and fetched from the backend via multiple services (listed in the **services** folder).
 The backend code is available via the repository mentioned below.
-SSR is set to true.
 Bootstrap is used for styling.
 Fontawesome is used as an icon library.
 

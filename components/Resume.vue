@@ -63,8 +63,6 @@
 
 
 <script lang="ts">
-import Vue from "vue";
-import { DefaultToastOptions } from "~/config/defaultToastOptions";
 import {
   computed,
   defineComponent,
